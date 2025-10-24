@@ -1,2 +1,14 @@
-# branding-assets
-Public branding assets for Watertracks This repository hosts publicly accessible images and resources used in Watertracks email signatures, marketing materials, and digital communications. Assets include logos, banners, and other visual elements optimized for integration in HTML email templates and external platforms.
+# Watertracks Branding Assets
+This repository contains publicly accessible branding resources for **Watertracks**, including:
+
+- Company logos
+- Email signature banners
+- Visual elements used in digital communications
+
+These assets are optimized for use in:
+- HTML email signatures
+- Marketing materials
+- External platforms (e.g. Exchange Online, websites)
+
+## 🔗 Usage
+You can reference these images directly using their GitHub Pages URLs.
